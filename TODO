@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+- 
+- Issues
+-
+-------------------------------------------------------------------------------
+
+- Rename with more descriptive/representative name
+- Make fast - parrell processing, excludes to work intelligently, do not stage uncessairly, blacklist files, turn off logging
+- Use classifer  version

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+- 
+- Maven Resolver Plugin
+-
+-------------------------------------------------------------------------------
+
+Resolve and install/deploy hierarchical dependencies, from an exploded directory
+tree, using the path and passed regexp masks to decide on group, artifact,
+version and dependencies.
+
+This is useful to install/deploy the JARs from a multi-jar project, that has not
+been mavenised into its own module namespace.
